@@ -1,7 +1,7 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
   homepage: 'https://rjshkhr.github.io/Muyi2905',
-  title: 'JS.',
+  title: 'MO.',
 }
 
 const about = {
@@ -9,7 +9,7 @@ const about = {
   name: 'Muyiwa Obaremi',
   role: 'Software Engineer',
   description:
-    'Passionate about building robust backend solutions and continuously expanding my expertise in DevOps practices, with a touch of frontend development. I specialize in designing and developing scalable, efficient, and reliable backend systems while implementing automation and cloud infrastructure. While my primary focus is backend and DevOps, I also enjoy working on frontend technologies to create seamless, user-friendly experiences. I`m always eager to tackle complex challenges and stay ahead of emerging trends in the tech industry.',
+    'Passionate about building robust backend solutions and continuously expanding my expertise in DevOps practices, with a touch of frontend development. I specialize in designing and developing scalable, efficient, and reliable backend systems while implementing automation and cloud infrastructure. While my primary focus is backend and DevOps, I also enjoy working on frontend technologies to create seamless, user-friendly experiences.',
   resume: 'https://example.com',
   social: {
     linkedin: 'https://www.linkedin.com/in/muyiwaobaremi/',
